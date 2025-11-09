@@ -1,4 +1,4 @@
-hunTech_FrontEnd
+
 Proyecto academico para el IFTS N° 11 en la materia DEsarrollo de sistemas(Front End)
 Integrantes:
 Melgarejo Monica
